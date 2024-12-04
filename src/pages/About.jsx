@@ -57,20 +57,20 @@ const About = () => {
         <div className="impact-grid">
           {/* impact items */}
           <div className="impact-item">
-            <img className="impact-icon" src='./images/new-donation.png'></img>
+            <img className="impact-icon" src='/images/new-donation.png'></img>
             <h4 className='brown-text'>Donations</h4>
             <p className='brown-text'>We have raised an average of $50,000 NZD in donations per year.</p>
           </div>
 
           <div className="impact-item">
-            <img className="impact-icon" src='./images/new-children.png'></img>
+            <img className="impact-icon" src='/images/new-children.png'></img>
             <h4 className='brown-text'>Children</h4>
             <p className='brown-text'>We have helped around 2,000 children around Auckland per year.</p>
           </div>
 
           <div className="impact-item">
             <div className="impact-icon volunteer"></div>
-            <img className="impact-icon" src='./images/new-volunteers.png'></img>
+            <img className="impact-icon" src='/images/new-volunteers.png'></img>
             <h4 className='brown-text'>Volunteers</h4>
             <p className='brown-text'>We register around 150 dedicated volunteers per year.</p>
           </div>
