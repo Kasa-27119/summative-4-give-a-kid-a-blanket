@@ -774,7 +774,7 @@ footer {
 
 input, select {
   text-indent: 10px;
-  height: 5vh;
+  height: 3rem;
   width: 100%;
   border-radius: 1.25rem;
   border: none;
@@ -1101,13 +1101,13 @@ samsung galaxy a51
   .navlinks.active {
     display: flex;
     transform: translateY(0);
-    gap: 4.5rem;
+    gap: 5;
   }
 
   .navlinks li a {
     color: white;
     text-decoration: none;
-    font-size: 5rem;
+    font-size: 3.2rem;
     font-weight: 700;
     text-transform: uppercase;
     border: none;
@@ -1153,33 +1153,33 @@ samsung galaxy a51
   }
 
   p {
-    font-size: 3.5rem;
+    font-size: 1.8rem;
   }
 
   h1 {
-    font-size: 7.2rem;
+    font-size: 4.8rem;
     text-align: center;
   }
 
   h2 {
-    font-size: 6.5rem;
+    font-size: 4.25rem;
   }
 
   h3 {
-    font-size: 5.8rem;
+    font-size: 3.6rem;
   }
 
   h4 {
-    font-size: 5.25rem;
+    font-size: 3.2rem;
     margin: 2% 0;
   }
 
   h5 {
-    font-size: 4.75rem;
+    font-size: 2.6rem;
   }
 
   h6, label {
-    font-size: 3.6rem;
+    font-size: 2.25rem;
   }
 
   /* home page */
@@ -1193,7 +1193,7 @@ samsung galaxy a51
   }
 
   .page-header {
-    height: 20vh;
+    height: auto;
     border-radius: 1.25rem;
   }
 
@@ -1313,6 +1313,10 @@ samsung galaxy a51
     height: 25vh;
   }
 
+  .sponsor-item {
+    height: auto;
+  }
+
   /* contact page */
   .contact-box {
     height: auto;
@@ -1358,6 +1362,10 @@ samsung galaxy a51
     height: auto;
   }
 
+  .form-field {
+    width: 100%
+  }
+
   .form-field-bottom {
     margin-top: 10rem;
     height: auto;
@@ -1366,7 +1374,10 @@ samsung galaxy a51
 
   /* donation */
   input, select {
-    font-size: 3.5rem;
+    font-size: 2.25rem;
+    padding: 4%;
+    height: auto;
+    width: 100%;
   }
 
   /* store page */
@@ -1392,7 +1403,7 @@ samsung galaxy a51
 
   .product-field select {
     width: 100%;
-    height: 5vh;
+    height: 9vh;
   }
 
   .product-item, .cart-item {
@@ -2625,6 +2636,7 @@ ipad 9th gen
 
   select, input {
     font-size: 3rem;
+    height: 6rem;
   }
 
   /* store & cart page */
