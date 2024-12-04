@@ -37,7 +37,7 @@ const Navbar = () => {
     <header>
       <nav className={`navbar ${isOpen ? "menu-open" : ""}`}>
         <NavLink to="/" className="logo">
-          <img className='logo' src="./images/gakab-logo.png" alt="Give a Kid a Blanket logo" />
+          <img className='logo' src="/images/gakab-logo.png" alt="Give a Kid a Blanket logo" />
         </NavLink>
         <div className="menu-icon" onClick={toggleMenu}>
           <div className={`bar bar1 ${isOpen ? "toggle" : ""}`}></div>
@@ -98,7 +98,7 @@ const Navbar = () => {
               className={({ isActive }) => (isActive ? "active-link cart-navlink" : "")}
             >
               <div>
-                <img id='cartIcon' src="./images/cream-cart.png" alt="cart icon" />
+                <img id='cartIcon' src="/images/cream-cart.png" alt="cart icon" />
                 {cart.length > 0 && `(${cart.length})`}
               </div>
             </NavLink>

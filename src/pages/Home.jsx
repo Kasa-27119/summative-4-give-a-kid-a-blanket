@@ -74,25 +74,25 @@ const Home = () => {
         <div className="mission-grid">
 
           <div className="mission-item">
-            <img src="./images/new-nurture.png" alt="nurture icon"/>
+            <img src="/images/new-nurture.png" alt="nurture icon"/>
             <h4>Nurture</h4>
             <p>We are dedicated to nurturing every child by addressing their needs with compassion.</p>
           </div>
 
           <div className="mission-item">
-            <img src="./images/new-community.png" alt="commuunity icon"/>
+            <img src="/images/new-community.png" alt="commuunity icon"/>
             <h4>Community</h4>
             <p>We believe in working to unite individuals and organizations in the spirit of giving and support.</p>
           </div>
 
           <div className="mission-item">
-            <img src="./images/new-kindness.png" alt="kindness icon"/>
+            <img src="/images/new-kindness.png" alt="kindness icon"/>
             <h4>Kindness</h4>
             <p>Kindness is at the heart of everything we do, inspiring our actions with those we serve.</p>
           </div>
 
           <div className="mission-item">
-            <img src="./images/new-participation.png" alt="participation icon"/>
+            <img src="/images/new-participation.png" alt="participation icon"/>
             <h4>Participation</h4>
             <p>We encourage participation so that our collective effort creates lasting impact.</p>
           </div>

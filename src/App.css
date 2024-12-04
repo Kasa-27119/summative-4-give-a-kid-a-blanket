@@ -140,7 +140,7 @@ label {
 .page-header-pattern {
   width: 100%;
   height: 6.625rem;
-  background-image: url('./images/patterns.png');
+  background-image: url('/images/patterns.png');
   background-position: center;
   border-bottom-left-radius: 1.25rem;
   border-bottom-right-radius: 1.25rem;
@@ -502,7 +502,7 @@ footer {
 .panel-pattern {
   height: 100%;
   width: 60%;
-  background-image: url('./images/patterns.png');
+  background-image: url('/images/patterns.png');
   background-size: 320%;
 }
 
@@ -947,7 +947,7 @@ option {
 .article-pattern {
   height: 100%;
   width: 8.75rem;
-  background-image: url('./images/patterns.png');
+  background-image: url('/images/patterns.png');
   background-position: center;
   background-size: 325%;
 }
@@ -1560,7 +1560,7 @@ samsung galaxy a51
   .page-header-pattern {
     width: 100%;
     height: 6.625rem;
-    background-image: url('./images/patterns.png');
+    background-image: url('/images/patterns.png');
     background-position: center;
     border-bottom-left-radius: 1.25rem;
     border-bottom-right-radius: 1.25rem;
@@ -1922,7 +1922,7 @@ samsung galaxy a51
   .panel-pattern {
     height: 100%;
     width: 60%;
-    background-image: url('./images/patterns.png');
+    background-image: url('/images/patterns.png');
     background-size: 320%;
   }
 
@@ -2367,7 +2367,7 @@ samsung galaxy a51
   .article-pattern {
     height: 100%;
     width: 8.75rem;
-    background-image: url('./images/patterns.png');
+    background-image: url('/images/patterns.png');
     background-position: center;
     background-size: 325%;
   }
